@@ -59,3 +59,8 @@ Gautam Mandoliya
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
+### Walkthrough of the project:
+PART-1:https://www.loom.com/share/96d2e666faac48db99c8cc0664eda254?sid=cae48ac8-7dd3-4a73-a9be-00c4bd3d1de1
+PART-2:https://www.loom.com/share/74d430a10a4f46e180fbf6440f796f5d?sid=908936a6-1416-49f4-b455-472983e97ed4
+
